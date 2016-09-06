@@ -1,9 +1,10 @@
-1
+2
 |||
 [B]Welcome To The New Look WKD Media...[/B]  
 
 [COLOR red][B]Build Updated On The 05.09.2016[/B][/COLOR]
 [I]New Addons Added, Broken Ones removed, Scrolling News Feed Removed To Speed Up The System[/I] 
+[I]Try Out The New One Click Widgets In Various Sections[I]
 
 [COLOR orange][B]Allow Updates & Building Menu To Complete & Keep It Clean...[/B][/COLOR]
 [I]Once Updates Are Complete Always Carry Out Maintenance, Run "Clean Up Device" Every 2 Days[/I]
