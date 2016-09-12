@@ -1,0 +1,5 @@
+name="WKDfireTV test"
+url="https://drive.google.com/uc?export=download&confirm=mZPR&id=0B4ij5F24iILZYVUzaE9xLUZEcUU"
+img="https://archive.org/download/awesomesplash_201602/icon.png" 
+fanart="https://archive.org/download/awesomesplash/awesomesplash.jpg"
+description="WKDfireTV test"
