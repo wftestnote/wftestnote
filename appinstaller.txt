@@ -1,5 +1,5 @@
 name="WKDfireTV test"
-url="https://drive.google.com/uc?export=download&confirm=Z9CZ&id=0B4ij5F24iILZYVUzaE9xLUZEcUU"
+url="https://onedrive.live.com/download?cid=742464A17ABAF1C2&resid=742464A17ABAF1C2%212808&authkey=ALSveaj8Oy6Nxv0"
 img="https://archive.org/download/awesomesplash_201602/icon.png" 
 fanart="https://archive.org/download/awesomesplash/awesomesplash.jpg"
 description="WKDfireTV test"
