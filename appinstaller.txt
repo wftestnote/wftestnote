@@ -1,5 +1,5 @@
 name="WKD MEDIA"
 url="https://onedrive.live.com/download?cid=742464A17ABAF1C2&resid=742464A17ABAF1C2%212808&authkey=ALSveaj8Oy6Nxv0"
-img="https://1drv.ms/i/s!AsLxunqhZCR0lX32S6_AkrhSM-fu" 
-fanart="https://1drv.ms/i/s!AsLxunqhZCR0lX7ZUezMxl1a99wp"
+img="https://archive.org/download/totalworx2_aol_Icon/icon.png" 
+fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="WKD MEDIA version:1.2"
