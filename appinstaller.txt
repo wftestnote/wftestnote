@@ -1,5 +1,5 @@
 name="WKD MEDIA"
 url="https://onedrive.live.com/download?cid=742464A17ABAF1C2&resid=742464A17ABAF1C2%212808&authkey=ALSveaj8Oy6Nxv0"
-img="https://onedrive.live.com/redir?resid=742464A17ABAF1C2!2813&authkey=!APZLr8CSuFIz5-4&ithint=photo%2cjpg" 
-fanart="https://onedrive.live.com/redir?resid=742464A17ABAF1C2!2814&authkey=!ANlR7MzGXVr33Ck&ithint=photo%2cjpg"
+img="https://1drv.ms/i/s!AsLxunqhZCR0lX32S6_AkrhSM-fu" 
+fanart="https://1drv.ms/i/s!AsLxunqhZCR0lX7ZUezMxl1a99wp"
 description="WKD MEDIA version:1.2"
