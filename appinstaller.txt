@@ -1,5 +1,5 @@
 name="WKD MEDIA"
-url="http://www118.zippyshare.com/d/aAJ0TeOn/842058/WKDfireTV.apk"
+url="https://onedrive.live.com/download?cid=742464A17ABAF1C2&resid=742464A17ABAF1C2%212834&authkey=AO2dWH68XKY-pr4"
 img="https://archive.org/download/totalworx2_aol_Icon/icon.png" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="WKD MEDIA version:1.2"
