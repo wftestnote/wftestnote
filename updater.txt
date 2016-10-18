@@ -1,0 +1,5 @@
+name="Latest Update - v 2.0"
+url="https://archive.org/download/awesome_201602/awesome.zip"
+img="https://archive.org/download/awesomesplash_201602/awesomesplash.png"
+fanart="https://archive.org/download/awesomesplash/awesomesplash.jpg"
+description="WKD Media - The best fully maintained/updated media setup by Barney, enjoy :)"
