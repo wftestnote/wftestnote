@@ -1,9 +1,9 @@
-4
+1
 |||
-[COLORlime][B]Latest Build Is:[COLORdeeppink]v2.0[COLORlime] (check in 'WKD ZONE' if on lower version run 'UPDATER' to get latest[/B][/COLOR]
+[COLORlime][B]Latest Build:v2.0 (check in 'WKD ZONE' if lower version run 'UPDATER' to get latest[/B][/COLOR]
 [I]Brand new addons added, broken ones removed, scrolling news feed removed to speed up the system & keep things smooth[/I] 
-[I]Try out the new one click widgets (above menu bar) in various sections, WORKING GREAT![I]
-[COLORred][B]Please allow updates & building menu to complete & keep your device clean, small auto-clean every launch [/B][/COLOR]
+[I]Try out the new one click widgets (above menu bar) in various sections, WORKING GREAT![/I]
+[COLORred][B]Please allow updates & building menu to complete & keep your device clean...[/B][/COLOR]
 [I]Once updates are complete always carry out maintenance, run "Auto Clean Device" in 'WKD ZONE'[/I]
-[COLORyellow][B]Hope you all enjoy using the new look WKD Media system, the BEST custom & FULLY maintained setup by Barney[/B][/COLOR]
+[COLORyellow][B]Hope you all enjoy using the new look WKD Media system, the BEST, FULLY maintained setup by Barney[/B][/COLOR]
 [I]Future update info/news will come via this pop-up window so you never miss a thing! You guys all ROCK!! thanks for being part of WKD Media... Barney :-)[/I]
