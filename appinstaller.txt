@@ -1,5 +1,5 @@
 name="WKD MEDIA"
-url="https://onedrive.live.com/download?cid=742464A17ABAF1C2&resid=742464A17ABAF1C2%212837&authkey=ALHIx8mJpLHTSEc"
+url="https://archive.org/download/apktest/WKDmedia.apk"
 img="https://archive.org/download/totalworx2_aol_Icon/icon.png" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
-description="WKD MEDIA by Barney"
+description="BIG! NEW! system upgrade to future proof our streaming devices by Barney :-)"
