@@ -1,4 +1,4 @@
-name="WKD MEDIA "install me""
+name="WKD MEDIA install me"
 url="https://archive.org/download/apktest/WKDmedia.apk"
 img="https://archive.org/download/totalworx2_aol_Icon/icon.png" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
