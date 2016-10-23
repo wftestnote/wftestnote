@@ -1,6 +1,6 @@
 1
 |||
-[COLORlime][B]Latest Build:v2.0 (check in 'WKD ZONE' if lower version run 'UPDATER' to get latest[/B][/COLOR]
+[COLORlime][B]Latest Build:v 2.1 (check in 'WKD ZONE' if lower version run 'UPDATER' to get latest[/B][/COLOR]
 [I]Brand new addons added, broken ones removed, scrolling news feed removed to speed up the system & keep things smooth[/I] 
 [I]Try out the new one click widgets (above menu bar) in various sections, WORKING GREAT![/I]
 [COLORred][B]Please allow updates & building menu to complete & keep your device clean...[/B][/COLOR]
