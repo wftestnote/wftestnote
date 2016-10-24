@@ -1,4 +1,4 @@
-name="Latest Build - v 2.0"
+name="Latest Build"
 url="https://archive.org/download/wkdzip/wkdmedia.zip"
 img="https://archive.org/download/updater_Icon_201610/icon.png"
 fanart="https://archive.org/download/awesomesplash/awesomesplash.jpg"
