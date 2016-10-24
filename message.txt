@@ -1,9 +1,8 @@
 2
 |||
-[COLORred][B]Please allow updates/building menu to complete it can take upto 10mins to build properly[/B][/COLOR]
-[I]Once updates are complete run "Auto Clean Device" in 'WKD ZONE'Have missing icons? Run 'FRESH START' then run 'UPDATER'[/I]
+[COLORred][B]Please allow updates/building menu to complete it can take upto 10mins,if this is your first run after the big upgrade is good idea to run 'FRESH START' in 'WKD ZONE' reboot,follow onscreen instructions,will wipe out all the old crap from previous system[/B][/COLOR]
+[I]Once updates are complete run "Auto Clean Device" in 'WKD ZONE'Have missing icons? Run 'FRESH START' reboot,follow onscreen instructions[/I]
 [COLORlime][B]Latest Build:v 2.1 (check in 'WKD ZONE' if lower version run 'UPDATER' to get latest[/B][/COLOR]
-[I]Brand new addons added, broken ones removed, scrolling news feed removed to speed up the system & keep things smooth[/I] 
-[I]Try out the new one click widgets (above menu bar) in various sections, WORKING GREAT![/I]
-[COLORyellow][B]Hope you all enjoy using the new look WKD Media system, the BEST, FULLY maintained setup by Barney[/B][/COLOR]
+[I]Brand new addons/new look,scrolling news feed removed to speed up the system&keep things smooth,new one click widgets (above menu bar push up,scroll left/right)[/I] 
+[COLORyellow][B]Hope you all enjoy using the new look WKD Media system,the BEST,FULLY maintained setup by Barney[/B][/COLOR]
 [I]Future update info/news will come via this pop-up window so you never miss a thing! You guys all ROCK!! thanks for being part of WKD Media... Barney :-)[/I]
