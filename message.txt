@@ -1,6 +1,6 @@
 2
 |||
-[COLORred][B]Please allow updates/building menu to complete it can take upto 10mins,if this is your first run after the big upgrade is good idea to run 'FRESH START' in 'WKD ZONE' reboot,follow onscreen instructions,will wipe out all the old stuff from previous system[/B][/COLOR]
+[COLORred][B]Please allow updates/building menu to complete it can take upto 10mins,if this is your first run after the big upgrade is good idea to run 'FRESH START' in 'WKD ZONE' reboot,follow onscreen instructions,cleans out the old stuff from previous system[/B][/COLOR]
 [I]Once updates are complete run "Auto Clean Device" in 'WKD ZONE', have missing icons? Run 'FRESH START' reboot[/I]
 [COLORlime][B]Latest Build:v 2.1 (check in 'WKD ZONE' if lower version run 'UPDATER' to get latest[/B][/COLOR]
 [I]New addons/new look,scrolling news feed removed to speed up system,new one click widgets (above menu bar push up,scroll left/right) New 'APP INSTALLER' to install updates to android apps like Mobdro so check there for updates to those[/I] 
