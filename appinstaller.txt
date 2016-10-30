@@ -12,6 +12,6 @@ description="Cracked by Barney :-)"
 
 name="UKtvNow - Live Sports & TV"
 url="https://archive.org/download/uktvnow7.2_20161024/uktvnow7.2.apk"
-img="https://4.bp.blogspot.com/-HKw5lA-Pqzs/VyHkluHK4WI/AAAAAAAARsA/qAmf7qQhlEwGbCL8HNtkEXCIu4BKXgv6QCLcB/s320/index.png" 
+img="https://archive.org/download/uktvnow_201610/uktvnow.png" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Cracked by Barney :-)"
