@@ -39,3 +39,10 @@ url="https://archive.org/download/Demand51.3.5/Demand5_1.3.5.apk"
 img="https://archive.org/download/demand5/demand5.png" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Cracked by Barney :-)"
+
+name="Badland - Games"
+url="https://archive.org/download/Badland3.2.0.6/Badland_3.2.0.6.apk"
+img="https://archive.org/download/badland_201611/badland.png" 
+fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
+description="Cracked by Barney :-)
+Fly and survive through the Game of the Year winning action adventure, BADLAND.More than 30 MILLION players and counting!"
