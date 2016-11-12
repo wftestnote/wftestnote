@@ -1,8 +1,8 @@
-3
+4
 |||
 [COLOR red][B]Please allow updates/building menu to complete it can take upto 10mins,if this is your first run after the big upgrade is good idea to run 'FRESH START' in 'WKD ZONE' wait for 'Done' message then reboot,cleans out the old stuff from previous system[/B][/COLOR]
 [I]Once updates are complete run "Auto Clean Device" in 'WKD ZONE'[/I]
 [COLOR yellow][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 2.4[/B][/COLOR][COLOR lime][B] (check in 'WKD ZONE' if lower run 'FRESH START' answer'Yes'wait for'Done'/reboot,run'UPDATER'as instructed[/B][/COLOR]
-[I]FIXED- 123Movies, Pop&Tiny Pop in Kids TV, Freeview in Live/Catchup. NEW MOBDRO version out today,update using 'APP INSTALLER'! One click widgets (above menu bar push up,scroll left/right) click to watch your choice![/I] 
+[I]FIXED- 123Movies, Pop&Tiny Pop in Kids TV, Freeview in Live/Catchup. NEW MOBDRO vers out 12/11/16,update using 'APP INSTALLER'! One click widgets (above menu bar push up,scroll left/right) click to watch your choice![/I] 
 [COLOR gold][B]Hope you all enjoy using the new look WKD Media system,the BEST,FULLY maintained setup by Barney[/B][/COLOR]
 [I]Future update info/news will come via this pop-up window so you never miss a thing! You guys all ROCK!! thanks for being part of WKD Media... Barney :-)[/I]
