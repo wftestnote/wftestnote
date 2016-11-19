@@ -1,4 +1,4 @@
-1
+2
 |||
 [COLOR red][B]!ALWAYS! run 'FRESH START' in 'WKD ZONE' BEFORE updating,answer 'Yes'& wait for 'Done' message then reboot device[/B][/COLOR]
 [COLOR yellow][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 2.5[/B][/COLOR][COLOR lime][B] (check in 'WKD ZONE' if lower run 'FRESH START' answer'Yes'wait for'Done'/reboot device,run'UPDATER'as instructed[/B][/COLOR]
