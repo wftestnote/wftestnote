@@ -1,6 +1,6 @@
-6
+1
 |||
-[COLOR red][B]!ALWAYS! run 'FRESH START' in 'WKD ZONE' BEFORE updating to latest version, wait for 'Done' message then reboot device[/B][/COLOR]
+[COLOR red][B]!ALWAYS! run 'FRESH START' in 'WKD ZONE' BEFORE updating,answer 'Yes'& wait for 'Done' message then reboot device[/B][/COLOR]
 [I]Once updates are complete run "Auto Clean Device" in 'WKD ZONE'[/I]
 [COLOR yellow][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 2.5[/B][/COLOR][COLOR lime][B] (check in 'WKD ZONE' if lower run 'FRESH START' answer'Yes'wait for'Done'/reboot device,run'UPDATER'as instructed[/B][/COLOR]
 [I]Tweaks to improve speed&reduce buffering.ADDED 'LiveMix' in Live/Catchup GREAT for 'premium live TV and Sports', Live premership addon in sports.NEW MOBDRO vers out 12/11/16,update using 'APP INSTALLER'[/I] 
