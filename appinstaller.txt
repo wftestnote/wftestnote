@@ -4,7 +4,7 @@ img="https://archive.org/download/totalworx2_aol_123/123.png"
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="BIG! NEW! system upgrade to future proof our streaming devices by Barney :-)"
 
-name="Mobdro - Live Sport&TV 17.12.16"
+name="Mobdro - Live Sport&TV - 17.12.16"
 url="https://archive.org/download/mobdro_20161024/mobdro.apk"
 img="https://archive.org/download/Mobdro_20161030/mobdro.png" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
