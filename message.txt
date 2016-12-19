@@ -1,7 +1,7 @@
-8
+1
 |||
 [COLOR red][B]\\***  MERRY CHRISTMAS & A HAPPY NEW YEAR TO ALL OF YOU  ***//[/B][/COLOR]
-[COLOR yellow][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 2.7[/B][/COLOR][COLOR lime][B] (check in 'WKD ZONE' if lower run 'FRESH START'answer 'YES' wait for 'DONE' message top left,then reboot device by pulling power,follow instructions on next startup to install latest build)[/B][/COLOR]
+[COLOR yellow][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 2.7[/B][/COLOR][COLOR lime][B] (check in 'WKD ZONE' if lower run 'FRESH START' answer 'YES' wait for 'DONE' message top left,then reboot device by pulling power,follow instructions on next startup to install latest build)[/B][/COLOR]
 [I]FIXED- 123Movies, 1 click widgets in MOVIES/TV SHOWS/KIDS sections FIXED AGAIN!, 'Gobble/Livemix REMOVED! as broken already! NEW MOBDRO version out 17/12/16,update NOW! using 'APP INSTALLER' in WKD ZONE[/I]
 [I]PLZ RUN!! "Auto Clean Device" in 'WKD ZONE' every 2 to 3 days to keep your device running smoothly[/I]
 [COLOR gold][B]Hope you all enjoy using the new look WKD Media system,the BEST,FULLY maintained setup by Barney[/B][/COLOR]
