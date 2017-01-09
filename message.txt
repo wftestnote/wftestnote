@@ -1,4 +1,4 @@
-3
+1
 |||
 [COLOR yellow][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 2.7[/B][/COLOR][COLOR lime][B] (check in 'WKD ZONE' update if lower version, run 'FRESH START' answer 'YES' wait for 'DONE' message top left,then reboot device by pulling power,follow instructions on next startup to install latest build)[/B][/COLOR]
 [I]ADDONS CURRENTLY DOWN!...Openload Movies & 123Movies, hopefully will come back else will be removed on next update,LATEST MOBDRO version 17/12/16,update if you have'nt already using 'APP INSTALLER' in WKD ZONE[/I]
