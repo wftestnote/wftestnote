@@ -1,8 +1,8 @@
-6
+7
 |||
-[COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.2[/B][/COLOR][COLOR gold][B] ***  FOLLOW 2 STEP INSTRUCTIONS BELOW TO ENSURE YOUR DEVICE UPDATES CORRECTLY IF NEEDED  ***[/B][/COLOR]
+[COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.2[/B][/COLOR][COLOR gold][B] ***  FOLLOW 2 STEP INSTRUCTIONS BELOW TO ENSURE YOUR DEVICE UPDATES CORRECTLY IF YOUR BUILD IS A LOWER VERSION, CHECK IN 'WKD ZONE'  ***[/B][/COLOR]
 
-[COLOR lime][B]STEP 1: run 'FRESH START' answer 'YES' wait for 'DONE' message top left, REBOOT STEP 2: follow instructions on next startup to install latest build, REBOOT when 'SUCCESS' message in green at end appears[/B][/COLOR][COLOR red][B] NOT BEFORE! LET IT COMPLETE![/B][/COLOR]
-[I]LATEST MOBDRO version 28/01/17,latest UKTVnow version 17/01/17 - update now if you have'nt already using 'APP INSTALLER' in WKD ZONE[/I]
+[COLOR lime][B]STEP 1: run 'FRESH START' answer 'YES' wait for 'DONE' message top left, [COLOR red][b]REBOOT[/B][/COLOR] STEP 2: follow instructions on next startup to install latest build, [COLOR red][B]REBOOT[/B][/COLOR] when 'SUCCESS' message in green at end appears[/B][/COLOR][COLOR red][B] NOT BEFORE! LET IT COMPLETE![/B][/COLOR]
+[I]Latest Mobdro version 28/01/17,latest UKTVnow version 17/01/17 - update now if you haven't already using 'APP INSTALLER' in WKD ZONE[/I]
 [COLOR red][B]PLZ RUN! "Auto Clean Device" in 'WKD ZONE' every 2 to 3 days to keep your device running smoothly. ALWAYS! Shut down using the power button bottom left of screen when you are finished or want to use another app like Mobdro etc[/B][/COLOR]
 [I]Support via: WKDfireTV@aol.com -Message us with any requests/suggestions or issues you may be having we will always respond.Thanks for being part of WKD Media... Barney[/I]
