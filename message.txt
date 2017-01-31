@@ -1,4 +1,4 @@
-3
+4
 |||
 [COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.2[/B][/COLOR][COLOR gold][B] ***  FOLLOW 2 STEP INSTRUCTIONS BELOW TO ENSURE YOUR DEVICE UPDATES CORRECTLY IF YOUR BUILD IS A LOWER VERSION, CHECK IN 'WKD ZONE'  ***[/B][/COLOR]
 [COLOR lime][B]STEP 1: run 'FRESH START' answer 'YES' wait for 'DONE' message top left [COLOR red]REBOOT[/COLOR] STEP 2: follow instructions on next startup to install latest build,when 'SUCCESS' message at end appears [COLOR red] REBOOT[/COLOR][COLOR deeppink] Next start will be the latest build :)[/B][/COLOR]
