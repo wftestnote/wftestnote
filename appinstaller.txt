@@ -2,7 +2,7 @@ name="WKD MEDIA"
 url="https://archive.org/download/apktest/WKDmedia.apk"
 img="https://archive.org/download/totalworx2_aol_123/123.png" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
-description="BIG! NEW! system upgrade to future proof our streaming devices by Barney :-)"
+description="Blank install of WKD MEDIA system by Barney :-)"
 
 name="Mobdro - Live Sport&TV - 28.01.17"
 url="https://archive.org/download/mobdro_20161024/mobdro.apk"
