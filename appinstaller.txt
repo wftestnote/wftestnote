@@ -11,7 +11,7 @@ fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Cracked by Barney :-)"
 
 name="UKtvNow - Live Sport&TV - 17.02.17"
-url="https://archive.org/download/uktvnow7.2_20161024/UKTVNowFirestick7.7.apk"
+url="https://archive.org/download/uktvnow7.2_20161024/UKTVNowFirestick.apk"
 img="https://archive.org/download/uktvnow_201610/uktvnow.png" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Cracked by Barney :-)"
