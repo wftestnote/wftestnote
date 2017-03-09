@@ -1,7 +1,10 @@
-2
+3
 |||
 [COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.3[/B][/COLOR][COLOR gold][B] ***  Released 9/3/17 - CHECK IN 'WKD ZONE' if lower please run 'UPDATER' only as 'FRESH START' down on build v 3.2  ***[/B][/COLOR]
-[COLOR lime][B]when 'SUCCESS' message at end appears [COLOR red] REBOOT[/COLOR][COLOR deeppink] Next start will be the latest build :)[/B][/COLOR]
+[COLOR lime][B]when 'SUCCESS' message at end appears [COLOR red] REBOOT[/COLOR][COLOR deeppink] Next start will be the latest build[/B][/COLOR]
+
 [COLOR aqua][B]Latest Mobdro version 28/01/17,latest UKTVnow version 17/02/17 - update now if you haven't already using 'APP INSTALLER' in WKD ZONE[/B][/COLOR]
-[COLOR red][B]System now setup to 'AUTO-CLEAN' itself regulary but 'AUTO CLEAN DEVICE' still in 'WKD ZONE' just incase. ALWAYS! Shut down using the power button bottom left of screen when you are finished or want to use another app like Mobdro etc[/B][/COLOR]
+[COLOR red][B]System now setup to 'AUTO-CLEAN' itself regularly but 'AUTO CLEAN DEVICE' still in 'WKD ZONE' just incase needed. 
+ALWAYS! Shut down using the power button bottom left of screen when you are finished or want to use another app like Mobdro etc[/B][/COLOR]
+
 [COLOR aqua][B]Support via: WKDfireTV@aol.com -Message us here we will always respond.Thanks for being part of WKD Media... Barney[/B][/COLOR]
