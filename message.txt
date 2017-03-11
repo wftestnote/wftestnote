@@ -1,6 +1,6 @@
-3
+4
 |||
-[COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.3[/B][/COLOR][COLOR gold][B] ***  Released 9/3/17 - CHECK IN 'WKD ZONE' if lower please run 'UPDATER' only as 'FRESH START' down on build v 3.2  ***[/B][/COLOR]
+[COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.3[/B][/COLOR][COLOR gold][B] ***  Released 11/3/17 (soccer streams now added) check in 'WKD ZONE' please run 'UPDATER' only as 'FRESH START' down on build v 3.2  ***[/B][/COLOR]
 [COLOR lime][B]when 'SUCCESS' message at end appears [COLOR red] REBOOT[/COLOR][COLOR deeppink] Next start will be the latest build[/B][/COLOR]
 
 [COLOR aqua][B]Latest Mobdro version 28/01/17,latest UKTVnow version 17/02/17 - update now if you haven't already using 'APP INSTALLER' in WKD ZONE[/B][/COLOR]
