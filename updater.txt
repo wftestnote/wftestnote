@@ -1,5 +1,5 @@
 name="Latest Build"
-url="https://archive.org/download/wkdzip/wkdmedia.zip"
+url="http://www.wkdfire.net23.net/build/wkdmedia.zip"
 img="https://archive.org/download/updater_Icon_201610/icon.png"
 fanart="https://archive.org/download/awesomesplash/awesomesplash.jpg"
 description="WKD Media - The best fully maintained/updated media setup by Barney, enjoy :)"
