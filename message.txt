@@ -1,6 +1,6 @@
-2
+3
 |||
-[COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.4[/B][/COLOR][COLOR gold][B] ***  Released 17/3/17 (fixed 1 click widgets) check in 'WKD ZONE' please run 'UPDATER' only as 'FRESH START' down on build v 3.2  ***[/B][/COLOR]
+[COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.4[/B][/COLOR][COLOR gold][B] ***  Released 17/03/17 (fixed 1 click widgets) check in 'WKD ZONE' please run 'UPDATER' only as 'FRESH START' down on build v 3.2  ***[/B][/COLOR]
 [COLOR lime][B]when 'SUCCESS' message at end appears [COLOR red] REBOOT[/COLOR][COLOR deeppink] Next start will be the latest build[/B][/COLOR]
 
 [COLOR aqua][B]Latest Mobdro version 15/03/17,latest UKTVnow version 17/02/17 - update now if you haven't already using 'APP INSTALLER' in WKD ZONE[/B][/COLOR]
