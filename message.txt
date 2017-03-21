@@ -1,4 +1,4 @@
-1
+2
 |||
 [COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.4[/B][/COLOR][COLOR gold][B] ***  Released 17/03/17 (fixed 1 click widgets) check in 'WKD ZONE' please run 'UPDATER' if lower version  ***[/B][/COLOR]
 [COLOR lime][B]when 'SUCCESS' message at end appears [COLOR red] REBOOT device by pulling power![/COLOR][COLOR deeppink]       Next start will be the latest build[/B][/COLOR]
