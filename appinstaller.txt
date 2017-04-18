@@ -1,8 +1,8 @@
-name="WKD MEDIA"
-url="https://archive.org/download/apktest/WKDmedia.apk"
-img="https://archive.org/download/totalworx2_aol_123/123.png" 
-fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
-description="Blank install of WKD MEDIA system by Barney :-)"
+name="WKD MEDIA **System Update 18th April 2017**"
+url="https://archive.org/download/apktest/WKDmedia2.apk"
+img="http://wkdfire.net23.net/build/icon256x256.png" 
+fanart="http://wkdfire.net23.net/build/fanart.jpg"
+description="Lastest WKD MEDIA system by Barney :-)"
 
 name="Mobdro - Live Sport&TV - 28.01.17"
 url="https://archive.org/download/mobdro_20161024/mobdro.apk"
