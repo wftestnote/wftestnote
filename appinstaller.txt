@@ -1,4 +1,4 @@
-name="WKD MEDIA **System Update 18th April 2017**"
+name="**SYSTEM UPDATE MAY 2017**  !! YOU MUST INSTALL THIS NOW !!"
 url="https://archive.org/download/apktest/WKDmedia2.apk"
 img="http://wkdfire.net23.net/build/icon256x256.png" 
 fanart="http://wkdfire.net23.net/build/fanart.jpg"
