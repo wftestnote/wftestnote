@@ -1,9 +1,10 @@
-1
+2
 |||
 [COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.4[/B][/COLOR][COLOR gold][B] ***  Released 17/03/17 (fixed 1 click widgets) check in 'WKD ZONE' please run 'UPDATER' if lower version  ***[/B][/COLOR]
 [COLOR lime][B]when 'SUCCESS' message at end appears [COLOR red] REBOOT device by pulling power![/COLOR]
 
 [COLOR yellow][B]**IMPORTANT** YOU MUST INSTALL 2017 SYSTEM UPDATE USING 'APP INSTALLER' NOT 'UPDATER' THIS IS NOT BEING DONE GOING BY THE DOWNLOAD COUNTS![/B][/COLOR]
 
-[COLOR red][B]System now setup to 'AUTO-CLEAN' itself regularly 
-ALWAYS! Shut down using the power button bottom left of screen when you are finished or want to use another app like Mobdro etc[/B][/COLOR]
+[COLOR red][B]System is now setup to 'AUTO-CLEAN' itself 
+
+ALWAYS! Shut down the system using the power button bottom left of screen when you are finished or want to use another app like Mobdro etc[/B][/COLOR]
