@@ -12,13 +12,13 @@ description="Cracked by Barney :-)"
 
 name="ECG IPTV - Live Sport&TV - 22.05.17"
 url="https://archive.org/download/ecg_iptv/ecg_iptv.apk"
-img="" 
+img="https://2.bp.blogspot.com/-76i_xMTkd78/WLBUoZQrdAI/AAAAAAAAVwA/mKMOZEsftW0uKyJERCuFfFbXwqad09dFwCLcB/s1600/ECG%2BTv%2BKodi%2B130.png" 
 fanart="http://wkdfire.net23.net/build/fanart.jpg"
 description="Cracked by Barney :-)"
 
 name="i4 Sports - Live Sport&TV - 22.05.17"
 url="https://archive.org/download/i4sports/i4sports.apk"
-img="" 
+img="http://www.androidaba.com/wp-content/uploads/2017/05/i4-sports-logo-by-androidaba.jpg" 
 fanart="http://wkdfire.net23.net/build/fanart.jpg"
 description="Cracked by Barney :-)"
 
