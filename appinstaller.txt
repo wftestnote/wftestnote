@@ -22,12 +22,6 @@ img="http://www.androidaba.com/wp-content/uploads/2017/05/i4-sports-logo-by-andr
 fanart="http://wkdfire.net23.net/build/fanart.jpg"
 description="Cracked by Barney :-)"
 
-name="MXplayer - Needed to play sports&live TV apps - 22.05.17"
-url="https://archive.org/download/MXPlayerV1.8.11Apkpure.com/MX%20Player_v1.8.11_apkpure.com.apk"
-img="http://3.bp.blogspot.com/-ggxECEg557k/VRCa5DwvVXI/AAAAAAAAju0/nD_7H-FoXzo/s1600/MX-Player-for-Windows-Phone.png" 
-fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
-description="Cracked by Barney :-)"
-
 name="UKtvNow - Live Sport&TV - 17.02.17 - MXplayer needed to play"
 url="https://archive.org/download/uktvnow7.2_20161024/UKTVNowFirestick.apk"
 img="https://i.ytimg.com/vi/i_IPkREHfjg/hqdefault.jpg" 
