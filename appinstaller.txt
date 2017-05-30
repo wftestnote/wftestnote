@@ -28,7 +28,7 @@ img="https://i.ytimg.com/vi/i_IPkREHfjg/hqdefault.jpg"
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Cracked by Barney :-)"
 
-name="MX Player - Needed to play Live Sport&TV - 23.05.17 - If this won't install means you already have it,try playing a stream from the new apps if it black screens you will need uninstall old version of MX Player! Go to settings,applications/manage apps,uninstall the old version then install this new version which is best thing to do!"
+name="MX Player - Needed to play Live Sport&TV - 23.05.17 - If this won't install means you already have it"
 url="https://archive.org/download/mxplyr_201705/mxplyr.apk"
 img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdbd703-e0dd-406a-a154-7ced89ccf388.8a71a92f-147a-4ee4-aa7e-a2263e6a1e90" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
