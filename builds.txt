@@ -1,0 +1,8 @@
+name="WKD Media (fully loaded build)"
+version="3.5"
+url="https://archive.org/download/wkdzip/wkdmedia.zip"
+gui="http://"
+kodi="16.1"
+theme="http://"
+icon="https://archive.org/download/totalworx2_aol_Icon/icon.png"
+fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
