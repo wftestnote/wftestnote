@@ -1,7 +1,3 @@
-id="plugin.video.WKDupdater"
-version="2.0"
-zip="http://"
-
 name="WKD Media"
 version="3.5"
 url="https://archive.org/download/wkdzip/wkdmedia.zip"
