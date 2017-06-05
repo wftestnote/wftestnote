@@ -1,7 +1,7 @@
 name="**SYSTEM UPDATE MAY 2017**  !! YOU MUST INSTALL THIS NOW !!"
 section="no"
 url="https://archive.org/download/apktest/WKDmedia2.apk"
-img="http://wkdfire.net23.net/build/icon256x256.png" 
+icon="http://wkdfire.net23.net/build/icon256x256.png" 
 fanart="http://wkdfire.net23.net/build/fanart.jpg"
 adult="no"
 description="Lastest WKD MEDIA system by Barney :-)"
