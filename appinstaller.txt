@@ -34,7 +34,7 @@ img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdb
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Cracked by Barney :-)"
 
-name="testingDO NOT INSTALL"
+name="testing"
 url="https://archive.org/download/Wookie.17.0For4.4.2/Wookie.17.0%20For%204.4.2.apk"
 img="http://wookiespmc.com/wp-content/uploads/2015/12/WOOKIE-UPDATE-ICON.png" 
 fanart=""
