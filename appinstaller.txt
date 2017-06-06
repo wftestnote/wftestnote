@@ -40,7 +40,7 @@ img="http://onealliance.info/wp-content/uploads/2017/03/OneAllianceLogo.jpg"
 fanart="http://"
 description="Freely available android app"
 
-name="Wookie - Regularly Updated FREE kodi build,go video addons/wookie 1st screen,install krypton version you like"
+name="Wookie - Regularly Updated FREE kodi build,go video addons/wookie 1st screen,install (JARVIS ONLY) version you like"
 url="https://archive.org/download/Wookie.17.0For4.4.2/Wookie.17.0%20For%204.4.2.apk"
 img="http://wookiespmc.com/wp-content/uploads/2015/12/WOOKIE-UPDATE-ICON.png" 
 fanart="http://"
