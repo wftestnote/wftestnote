@@ -34,7 +34,7 @@ img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdb
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Freely available android app"
 
-name="OneAlliance - Regularly Updated FREE kodi build"
+name="OneAlliance - THE BEST!! Regularly Updated FREE kodi build"
 url="https://archive.org/download/1AMC16.2/1AMC-16.2.apk"
 img="http://onealliance.info/wp-content/uploads/2017/03/OneAllianceLogo.jpg" 
 fanart="http://"
