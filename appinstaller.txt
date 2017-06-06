@@ -39,3 +39,9 @@ url="https://archive.org/download/Wookie.17.0For4.4.2/Wookie.17.0%20For%204.4.2.
 img="http://wookiespmc.com/wp-content/uploads/2015/12/WOOKIE-UPDATE-ICON.png" 
 fanart="http://"
 description="testing"
+
+name="testing2"
+url="https://archive.org/download/1AMC16.2/1AMC-16.2.apk"
+img="http://onealliance.info/wp-content/uploads/2017/03/OneAllianceLogo.jpg" 
+fanart="http://"
+description="testing"
