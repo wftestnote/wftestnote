@@ -1,4 +1,4 @@
-5
+6
 |||
 [COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.5[/B][/COLOR][COLOR gold][B] ***  Released 30/05/17 check in 'WKD ZONE' please update device if lower version  ***[/B][/COLOR]
 [COLOR lime][B]when 'SUCCESS' message at end appears [COLOR red] REBOOT device by pulling power![/COLOR]
