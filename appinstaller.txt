@@ -1,19 +1,13 @@
 name="**SYSTEM UPDATE MAY 2017**  !! YOU MUST INSTALL THIS NOW !!"
 url="https://archive.org/download/apktest/WKDmedia2.apk"
-img="http://" 
+img="https://spyera.com/wp-content/uploads/2014/01/software-update.png" 
 fanart="http://"
 description="Needed system update"
 
-name="OneAlliance - THE BEST!! Regularly Updated FREE kodi build"
-url="https://archive.org/download/1AMC16.2/1AMC-16.2.apk"
-img="http://onealliance.info/wp-content/uploads/2017/03/OneAllianceLogo.jpg" 
-fanart="http://"
-description="Freely available android app"
-
 name="Mobdro - Live Sport&TV - 22.05.17 - MXplayer needed to play"
 url="https://archive.org/download/mobdro_20161024/mobdro.apk"
-img="https://archive.org/download/Mobdro_20161030/mobdro.png" 
-fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
+img="https://i0.wp.com/androwindows.com/wp-content/uploads/2016/04/apps-like-mobdro-download.png?fit=322%2C243" 
+fanart="http://"
 description="Freely available android app"
 
 name="ECG IPTV - Live Sport&TV - 22.05.17 - MXplayer needed to play"
@@ -40,8 +34,14 @@ img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdb
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Freely available android app"
 
-name="Wookie - Regularly Updated FREE kodi build,go video addons/wookie 1st screen,install build of your choice (KRYPTON ONLY) google is your friend here search-what builds are good on Wookie Wizard"
+name="Wookie - Regularly Updated FREE kodi build,goto video addons/wookie 1st screen,install build/community builds(KRYPTON ONLY) google 'what builds are good on Wookie Wizard'"
 url="https://archive.org/download/Wookie.17.0For4.4.2/Wookie.17.0%20For%204.4.2.apk"
 img="http://wookiespmc.com/wp-content/uploads/2015/12/WOOKIE-UPDATE-ICON.png" 
+fanart="http://"
+description="Freely available android app"
+
+name="OneAlliance - Regularly Updated FREE kodi build"
+url="https://archive.org/download/1AMC16.2/1AMC-16.2.apk"
+img="http://onealliance.info/wp-content/uploads/2017/03/OneAllianceLogo.jpg" 
 fanart="http://"
 description="Freely available android app"
