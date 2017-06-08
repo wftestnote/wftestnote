@@ -4,6 +4,12 @@ img="https://spyera.com/wp-content/uploads/2014/01/software-update.png"
 fanart="http://"
 description="Needed system update"
 
+name="Terrarium TV - Movies&TV Shows - 08.06.17"
+url="https://archive.org/download/app-release_201706/app-release.apk"
+img="https://terrariumtv.com/assets/images/terrariumtv.png" 
+fanart="http://"
+description="Freely available android app"
+
 name="Mobdro - Live Sport&TV - 22.05.17 - MXplayer needed to play"
 url="https://archive.org/download/mobdro_20161024/mobdro.apk"
 img="https://i0.wp.com/androwindows.com/wp-content/uploads/2016/04/apps-like-mobdro-download.png?fit=322%2C243" 
