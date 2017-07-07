@@ -1,8 +1,0 @@
-1
-|||
-[COLOR orangered][B]Latest Build:[/B][/COLOR][COLOR fuchsia][B] v 3.6[/B][/COLOR][COLOR gold][B] ***  Released 01/07/17 check in 'WKD ZONE' if lower version please update device ***[/B][/COLOR]
-[COLOR lime][B]when 'SUCCESS' message at end appears [COLOR red] REBOOT device by pulling power![/COLOR]
-
-[COLOR yellow][B]**IMPORTANT** YOU MUST INSTALL 2017 SYSTEM UPDATE USING 'APP INSTALLER' ALSO CHECK OUT OTHER NEW ANDROID APPS IN HERE TOO 'TERRARIUM TV' IS GREAT & JUST LIKE SHOWBOX :o)[/B][/COLOR]
-
-[COLOR red][B]*** 1st JULY UPDATE OUT NOW *** NEW STUFF ADDED - ALL WORKING AT PRESENT ENJOY :o)[/B][/COLOR]
