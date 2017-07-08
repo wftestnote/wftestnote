@@ -2,7 +2,7 @@ name="**SYSTEM UPDATE 8th July 2017**  !! YOU MUST INSTALL THIS NOW !!"
 url="https://archive.org/download/WKDmedia3/WKDmedia3.apk"
 img="https://spyera.com/wp-content/uploads/2014/01/software-update.png" 
 fanart="http://"
-description="Needed system update, Please install this now if you have'nt already done already"
+description="Needed system update, Please install this now if you have'nt already"
 
 name="Terrarium TV - Movies&TV Shows - 08.06.17 - MXplayer needed to play"
 url="https://archive.org/download/app-release_201706/app-release.apk"
