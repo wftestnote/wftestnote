@@ -1,4 +1,4 @@
-name="**SYSTEM UPDATE 8th July 2017**  !! YOU MUST INSTALL THIS NOW !!"
+name="**SYSTEM UPDATE July 2017**  !! YOU MUST INSTALL THIS NOW !!"
 url="https://archive.org/download/WKDmedia3/WKDmedia3.apk"
 img="https://spyera.com/wp-content/uploads/2014/01/software-update.png" 
 fanart="http://"
