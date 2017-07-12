@@ -22,18 +22,6 @@ img="https://i0.wp.com/androwindows.com/wp-content/uploads/2016/04/apps-like-mob
 fanart="http://"
 description="Freely available android app"
 
-name="ECG IPTV - Live Sport&TV - 22.05.17 - MXplayer needed to play"
-url="https://archive.org/download/ecg_iptv/ecg_iptv.apk"
-img="https://2.bp.blogspot.com/-76i_xMTkd78/WLBUoZQrdAI/AAAAAAAAVwA/mKMOZEsftW0uKyJERCuFfFbXwqad09dFwCLcB/s1600/ECG%2BTv%2BKodi%2B130.png" 
-fanart="http://"
-description="Freely available android app"
-
-name="i4 Sports - Live Sport&TV - 22.05.17 - MXplayer needed to play"
-url="https://archive.org/download/i4sports/i4sports.apk"
-img="http://www.androidaba.com/wp-content/uploads/2017/05/i4-sports-logo-by-androidaba.jpg" 
-fanart="http://"
-description="Freely available android app"
-
 name="UKtvNow - Live Sport&TV - 17.02.17 - MXplayer needed to play"
 url="https://archive.org/download/uktvnow7.2_20161024/UKTVNowFirestick.apk"
 img="https://i.ytimg.com/vi/i_IPkREHfjg/hqdefault.jpg" 
@@ -44,16 +32,4 @@ name="MX Player - Needed to play Live Sport&TV - 23.05.17 - If this won't instal
 url="https://archive.org/download/mxplyr_201705/mxplyr.apk"
 img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdbd703-e0dd-406a-a154-7ced89ccf388.8a71a92f-147a-4ee4-aa7e-a2263e6a1e90" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
-description="Freely available android app"
-
-name="Wookie - Regularly Updated FREE kodi build (USE KRYPTON ONLY BUILDS)"
-url="https://archive.org/download/Wookie.17.0For4.4.2/Wookie.17.0%20For%204.4.2.apk"
-img="http://wookiespmc.com/wp-content/uploads/2015/12/WOOKIE-UPDATE-ICON.png" 
-fanart="http://"
-description="Freely available android app"
-
-name="OneAlliance - Regularly Updated FREE kodi build"
-url="https://archive.org/download/1AMC16.2/1AMC-16.2.apk"
-img="http://onealliance.info/wp-content/uploads/2017/03/OneAllianceLogo.jpg" 
-fanart="http://"
 description="Freely available android app"
