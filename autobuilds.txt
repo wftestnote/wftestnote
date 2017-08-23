@@ -3,7 +3,7 @@ version="1.5"
 zip="https://archive.org/download/plugin.program.wkdmedia/plugin.program.wkdmedia.zip"
 
 name="Fully Loaded Build"
-version="3.8"
+version="3.9"
 url="https://archive.org/download/totalworx2_aol_Wkd2/wkd2.zip"
 gui="http://"
 kodi="16.2"
