@@ -4,7 +4,7 @@ zip="https://archive.org/download/plugin.program.wkdmedia/plugin.program.wkdmedi
 
 name="Fully Loaded Build"
 version="3.9"
-url="https://archive.org/download/totalworx2_aol_Wkd2/wkd2.zip"
+url="https://onedrive.live.com/download?cid=742464A17ABAF1C2&resid=742464A17ABAF1C2%2124462&authkey=AHNFj9ehFt2Fh0U"
 gui="http://"
 kodi="16.2"
 theme="http://"
