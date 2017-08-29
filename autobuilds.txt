@@ -1,6 +1,6 @@
 id="plugin.program.wkdmedia"
 version="1.5"
-zip="https://archive.org/download/plugin.program.wkdmedia/plugin.program.wkdmedia.zip"
+zip="https://onedrive.live.com/download?cid=742464A17ABAF1C2&resid=742464A17ABAF1C2%2124463&authkey=ADr5jCdqF3x2uxY"
 
 name="Fully Loaded Build"
 version="3.9"
