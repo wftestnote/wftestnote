@@ -7,7 +7,7 @@ adult="No"
 description="Uk TV Now"
 
 name="Solid Streamz v1.0.0"
-section="no"
+section="yes"
 url="http://bit.do/solid_streamz-apk"
 icon="http://kobracustombuilds.com/apks/img/solidstreamz.jpg" 
 fanart="http://kobracustombuilds.com/apks/fanart/fanart3.jpg"
