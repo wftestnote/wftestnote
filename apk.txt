@@ -1,3 +1,11 @@
+name="**INSTALL ME NOW**"
+section="yes"
+url="https://archive.org/download/WKDmedia3/WKDmedia3.apk"
+icon="https://spyera.com/wp-content/uploads/2014/01/software-update.png" 
+fanart="http://"
+adult="No"
+description="LATEST SYSTEM UPDATE"
+
 name="MOBDRO"
 section="yes"
 url="https://archive.org/download/mobdro_20161024/mobdro.apk"
