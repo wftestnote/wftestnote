@@ -1,6 +1,6 @@
 name="**INSTALL ME NOW** - latest system update file"
 section="yes"
-url="https://archive.org/download/WKDmedia3/WKDmedia3.apk"
+url="http://archive.org/download/WKDmedia3/WKDmedia3.apk"
 icon="https://spyera.com/wp-content/uploads/2014/01/software-update.png" 
 fanart="http://"
 adult="No"
