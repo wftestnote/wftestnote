@@ -1,5 +1,5 @@
 id="plugin.program.wkdmedia"
-version="1.5"
+version="2.0"
 zip="https://archive.org/download/plugin.program.wkdmedia/plugin.program.wkdmedia.zip"
 
 name="Fully Loaded Build"
@@ -12,4 +12,4 @@ icon="https://archive.org/download/fanart_201707/prev.png"
 fanart="http://"
 preview="http://"
 adult="No"
-description="Our fully loaded build inc Movies,Tv shows,Kids,Music,Sport,Live&Catchup,Comedy,Documentary's,Fitness, ** Adult ** (Pin protected! message us for pin number 18+ ONLY!!!)"
+description="Our fully loaded build inc Movies,Tv shows,Kids,Music,Sport,Live&Catchup,Comedy,Documentary's,Fitness, ** Adult ** (Pin protected!18+ ONLY!!!)"
