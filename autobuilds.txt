@@ -1,5 +1,5 @@
 id="plugin.program.wkdmedia"
-version="2.4"
+version="2.0"
 zip="https://archive.org/download/plugin.program.wkdmedia/plugin.program.wkdmedia.zip"
 
 name="Fully Loaded Build"
