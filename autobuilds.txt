@@ -1,9 +1,9 @@
 id="plugin.program.wkdmedia"
-version="2.0"
+version="3.0"
 zip="https://archive.org/download/plugin.program.wkdmedia/plugin.program.wkdmedia.zip"
 
 name="Fully Loaded Build"
-version="4.0"
+version="4.2"
 url="https://archive.org/download/totalworx2_aol_Wkd2/wkd2.zip"
 gui="http://"
 kodi="16.2"
