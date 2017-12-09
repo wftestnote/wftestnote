@@ -6,7 +6,7 @@ description="YOU MUST INSTALL THIS!"
 
 name="Terrarium TV - Movies&TV Shows"
 url="https://archive.org/download/app-release_201706/app-release.apk"
-img="https://terrariumtv.com/assets/images/terrariumtv.png" 
+img="https://lh3.googleusercontent.com/fTvgLG1cdCwTIjKRm_rRmRIsAcVOGeN-AyMfy8-4sEpuzKAaBAQiWLg6lAFDykpWEg=h900" 
 fanart="http://"
 description="Freely available android app"
 
