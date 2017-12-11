@@ -28,7 +28,7 @@ img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdb
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
 description="Freely available android app"
 
-name="Free Flix HQ - 11.12.17"
+name="FreeFlix HQ"
 url="https://archive.org/details/FreeFlixHQProV2.2.4"
 img="https://2.bp.blogspot.com/-4jaHlFq-GMc/WQXOt1f96zI/AAAAAAAAXws/AO3p6YaEZp4T0S9XKd5LTF1uvi3MhoPFQCLcB/s640/FFFFFFFF.png" 
 fanart="http://"
