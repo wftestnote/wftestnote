@@ -10,11 +10,11 @@ img="https://lh3.googleusercontent.com/fTvgLG1cdCwTIjKRm_rRmRIsAcVOGeN-AyMfy8-4s
 fanart="http://"
 description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
 
-name="FreeFlix HQ- Movies&TV Shows "
+name="FreeFlix HQ- Movies&TV Shows"
 url="https://archive.org/download/FreeFlixHQProV2.2.4/FreeflixHqProV2.2.4.apk"
 img="https://apkmb.com/wp-content/uploads/2017/10/FreeFlix-HQ-Pro.png" 
 fanart="http://"
-description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!
+description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
 
 name="Live TV - Live Sport&TV"
 url="https://onedrive.live.com/download?cid=742464A17ABAF1C2&resid=742464A17ABAF1C2%2124817&authkey=ANBaybFbbSRlqbE"
