@@ -22,6 +22,12 @@ img="https://i0.wp.com/androwindows.com/wp-content/uploads/2016/04/apps-like-mob
 fanart="http://"
 description="Freely available android app, INSTALL THIS NOW FOR FREE LIVE SPORTS & TV!"
 
+name="UKTVnow - Live Sport&TV"
+url="https://archive.org/download/uktvnow7.2_20161024/UKTVNowFirestick.apk"
+img="https://apkmb.com/wp-content/uploads/2017/02/UkTVNow.png" 
+fanart="http://"
+description="Freely available android app, INSTALL THIS NOW FOR FREE LIVE SPORTS & TV!"
+
 name="MX Player - Needed to play Live Sport&TV - If this won't install means you already have it"
 url="https://archive.org/download/mxplyr_201705/mxplyr.apk"
 img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdbd703-e0dd-406a-a154-7ced89ccf388.8a71a92f-147a-4ee4-aa7e-a2263e6a1e90" 
