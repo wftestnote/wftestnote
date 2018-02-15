@@ -10,6 +10,12 @@ img="https://lh3.googleusercontent.com/fTvgLG1cdCwTIjKRm_rRmRIsAcVOGeN-AyMfy8-4s
 fanart="http://"
 description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
 
+name="Tea TV - Movies&TV Shows"
+url="https://archive.org/download/teatv_5.5r_20180215_1323/teatv_5.5r.apk"
+img="http://ianoint.com/dorkbox/wp-content/uploads/2017/12/teatv.png" 
+fanart="http://"
+description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
+
 name="FreeFlix HQ- Movies&TV Shows"
 url="https://archive.org/download/FreeFlixHQProV2.2.4/FreeFlixHQProV2.2.4.apk"
 img="https://apkmb.com/wp-content/uploads/2017/10/FreeFlix-HQ-Pro.png" 
