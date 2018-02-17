@@ -10,15 +10,15 @@ img="https://lh3.googleusercontent.com/fTvgLG1cdCwTIjKRm_rRmRIsAcVOGeN-AyMfy8-4s
 fanart="http://"
 description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
 
-name="UKMOVnow - Movies&TV Shows"
-url="http://ukmovnow.net/download/UKMOVNowFire1.2.apk"
-img="http://ukmovnow.net/assets/images/logo-blue-.png" 
-fanart="http://"
-description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
-
 name="FreeFlix HQ- Movies&TV Shows"
 url="https://archive.org/download/FreeFlixHQProV2.2.4/FreeFlixHQProV2.2.4.apk"
 img="https://apkmb.com/wp-content/uploads/2017/10/FreeFlix-HQ-Pro.png" 
+fanart="http://"
+description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
+
+name="UKMOVnow - Movies&TV Shows"
+url="http://ukmovnow.net/download/UKMOVNowFire1.2.apk"
+img="http://ukmovnow.net/assets/images/logo-blue-.png" 
 fanart="http://"
 description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
 
@@ -40,7 +40,7 @@ img="https://apkmb.com/wp-content/uploads/2017/02/UkTVNow.png"
 fanart="http://"
 description="Freely available android app, INSTALL THIS NOW FOR FREE LIVE SPORTS & TV!"
 
-name="MX Player - needed by apps to play content"
+name="MX Player - Needed by apps to play content"
 url="https://archive.org/download/mxplyr_201705/mxplyr.apk"
 img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdbd703-e0dd-406a-a154-7ced89ccf388.8a71a92f-147a-4ee4-aa7e-a2263e6a1e90" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
