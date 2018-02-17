@@ -40,7 +40,7 @@ img="https://apkmb.com/wp-content/uploads/2017/02/UkTVNow.png"
 fanart="http://"
 description="Freely available android app, INSTALL THIS NOW FOR FREE LIVE SPORTS & TV!"
 
-name="MX Player - The best video player, Plays everything"
+name="MX Player - needed by apps to play content"
 url="https://archive.org/download/mxplyr_201705/mxplyr.apk"
 img="http://store-images.s-microsoft.com/image/apps.62607.13510798886388649.5cdbd703-e0dd-406a-a154-7ced89ccf388.8a71a92f-147a-4ee4-aa7e-a2263e6a1e90" 
 fanart="https://archive.org/download/fanart_20160914/fanart.jpg"
