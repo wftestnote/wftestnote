@@ -29,7 +29,7 @@ fanart="http://"
 description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
 
 name="Mobdro - Live Sport&TV"
-url="https://www.mobdro.to/mobdro.apk"
+url="https://archive.org/download/mobdro_20180131/mobdro.apk"
 img="https://i0.wp.com/androwindows.com/wp-content/uploads/2016/04/apps-like-mobdro-download.png?fit=322%2C243" 
 fanart="http://"
 description="Freely available android app, INSTALL THIS NOW FOR FREE LIVE SPORTS & TV!"
