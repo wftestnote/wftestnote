@@ -34,9 +34,9 @@ img="https://i0.wp.com/androwindows.com/wp-content/uploads/2016/04/apps-like-mob
 fanart="http://"
 description="Freely available android app, INSTALL THIS NOW FOR FREE LIVE SPORTS & TV!"
 
-name="UKTVnow - Live Sport&TV"
-url="http://uktvnow.net/download/UKTVNowFirestick7.15.apk"
-img="https://apkmb.com/wp-content/uploads/2017/02/UkTVNow.png" 
+name="TV Tap - Live Sport&TV"
+url="http://download.tvtap.to/TVTAP-Firestick-2.7.apk"
+img="http://tvtap.to/assets/img/footer-logo2.png" 
 fanart="http://"
 description="Freely available android app, INSTALL THIS NOW FOR FREE LIVE SPORTS & TV!"
 
