@@ -5,7 +5,7 @@ fanart="http://"
 description="YOU MUST INSTALL THIS!"
 
 name="Cinema HD - Movies&TV Shows"
-url="https://cinemaapk.com/download"
+url="https://raw.githubusercontent.com/TeruSetephen/cinemaapk/master/release/cinema-2.0.2.apk"
 img="https://i2.wp.com/cinemafreeapk.com/wp-content/uploads/2018/10/cinema-free-apk.png?w=320&ssl=1" 
 fanart="http://"
 description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
