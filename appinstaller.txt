@@ -4,6 +4,12 @@ img="https://spyera.com/wp-content/uploads/2014/01/software-update.png"
 fanart="http://"
 description="YOU MUST INSTALL THIS!"
 
+name="Cinema HD - Movies&TV Shows"
+url="https://cinemaapk.com/download"
+img="https://i2.wp.com/cinemafreeapk.com/wp-content/uploads/2018/10/cinema-free-apk.png?w=320&ssl=1" 
+fanart="http://"
+description="Freely available android app, BETTER THAN NETFLIX/AMAZON PRIME, INSTALL THIS NOW FOR FREE MOVIES & TV SHOWS!"
+
 name="Tea TV - Movies&TV Shows"
 url="https://github.com/Teatvandroid/TeaTV_Android/releases/download/8.2r/TeaTV_8.2r.apk"
 img="http://ianoint.com/dorkbox/wp-content/uploads/2017/12/teatv.png" 
